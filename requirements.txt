@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow
+plotly
+streamlit~=1.15.2
+navec~=0.10.0
+pymorphy2~=0.9.1
